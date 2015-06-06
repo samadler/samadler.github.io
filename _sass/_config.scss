@@ -30,8 +30,6 @@ $secondary-color: #233E5B;
 $tertiary-color: #aaa;
 $link-color: $primary-color;
 
-$header-background: rgb(53,66,128);
-
 $bad-color: $red; // Bad color for errors, validation etc.
 $good-color: $green; // Good color for success etc.
 $info-color: $blue; // Good color for success etc.
@@ -66,3 +64,10 @@ TYPE SETTINGS
 
 $title: "Julius Sans One", Helvetica, Arial, sans-serif;
 $body: "Raleway", Georgia, Times, serif;
+
+/***************
+HEADER SETTINGS
+***************/
+
+$header-image: url('../img/touring.jpg');
+$header-background: rgb(53,66,128);

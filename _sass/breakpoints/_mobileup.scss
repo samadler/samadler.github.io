@@ -169,7 +169,7 @@ HEADER STYLING
 
 .header {
 	background-color: $header-background;
-	// background-image: url('../img/touring.jpg');
+	background-image: $header-image;
 	background-size: cover; 
 	background-position: center center;
 	color: white;
