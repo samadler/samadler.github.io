@@ -26,3 +26,6 @@ navigation:
 social:
    github: samadler
    email: samantha.m.adler@gmail.com
+
+prose:
+   media: "assets/img"
