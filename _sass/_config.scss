@@ -30,12 +30,13 @@ $secondary-color: #233E5B;
 $tertiary-color: #aaa;
 $link-color: $primary-color;
 
+$header-background: rgb(53,66,128);
+
 $bad-color: $red; // Bad color for errors, validation etc.
 $good-color: $green; // Good color for success etc.
 $info-color: $blue; // Good color for success etc.
 $warning-color: $orange; // Good color for success etc.
 $subtle-color: $grey; // Subtle color for subtle text
-
 
 /***************
 CONSISTENT SETTINGS
@@ -51,5 +52,5 @@ $line-height: 44px; // Consistent height for buttons, inputs etc.
 TYPE SETTINGS
 ***************/
 
-$sans-serif: "Open Sans", Helvetica, Arial, sans-serif;
-$serif: "Dosis", Georgia, Times, serif;
+$title: "Julius Sans One", Helvetica, Arial, sans-serif;
+$body: "Raleway", Georgia, Times, serif;

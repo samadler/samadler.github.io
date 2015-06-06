@@ -10,9 +10,20 @@
 // Grid using Bootstrap
 @import "bootstrap";
 
-// Import fonts from Google
+// Responsive nav
+@import "responsive-nav";
+
+// basic combo
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,800);
 @import url(http://fonts.googleapis.com/css?family=Dosis);
+
+// "formal"
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display+SC);
+@import url(http://fonts.googleapis.com/css?family=Lora);
+
+// "sleek"
+@import url(http://fonts.googleapis.com/css?family=Julius+Sans+One);
+@import url(http://fonts.googleapis.com/css?family=Raleway);
 
 // Site configuration
 @import "config"; 
